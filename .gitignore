@@ -1,0 +1,8 @@
+# Only the live state file is published.
+/*
+!/.gitignore
+!/data/
+/data/*
+!/data/live/
+/data/live/*
+!/data/live/state.json
