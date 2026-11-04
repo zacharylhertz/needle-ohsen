@@ -1,12 +1,12 @@
 {
   "race": "OH-SEN",
   "status": "counting",
-  "updated_at": "2026-11-04T00:35:51-05:00",
-  "last_success_at": "2026-11-04T00:35:51-05:00",
+  "updated_at": "2026-11-04T00:40:54-05:00",
+  "last_success_at": "2026-11-04T00:40:54-05:00",
   "feed": {
     "source": "sos_json",
-    "last_modified": "2026-11-04T00:35:51-05:00",
-    "last_change_at": "2026-11-04T00:15:36-05:00"
+    "last_modified": "2026-11-04T00:40:55-05:00",
+    "last_change_at": "2026-11-04T00:40:54-05:00"
   },
   "candidates": [
     {
@@ -30,19 +30,19 @@
   ],
   "counted_votes": 4247509,
   "expected_total": {
-    "mid": 4656094,
-    "lo90": 4617655,
-    "hi90": 4725780
+    "mid": 4616082,
+    "lo90": 4580304,
+    "hi90": 4685104
   },
-  "pct_counted_est": 91.22,
+  "pct_counted_est": 92.02,
   "estimate": {
-    "margin_mid": 4.61,
-    "margin_lo50": 4.36,
-    "margin_hi50": 4.85,
-    "margin_lo90": 3.96,
-    "margin_hi90": 5.27,
-    "margin_lo95": 3.81,
-    "margin_hi95": 5.43,
+    "margin_mid": 4.37,
+    "margin_lo50": 4.15,
+    "margin_hi50": 4.59,
+    "margin_lo90": 3.79,
+    "margin_hi90": 4.97,
+    "margin_lo95": 3.65,
+    "margin_hi95": 5.12,
     "p_brown": 1,
     "p_husted": 0
   },
@@ -52,14 +52,14 @@
       "votes": 1675911,
       "margin": 19.02,
       "expected_votes": 1789585,
-      "baseline_margin": 7.28
+      "baseline_margin": 7.26
     },
     {
       "method": "Election Day",
       "votes": 2571598,
       "margin": -8.27,
-      "expected_votes": 2865150,
-      "baseline_margin": -12.63
+      "expected_votes": 2825474,
+      "baseline_margin": -12.64
     }
   ],
   "by_county": [
@@ -198,7 +198,7 @@
       "est_margin_lo50": 30.62,
       "est_margin_hi50": 30.84,
       "est_margin_lo95": 30.51,
-      "est_margin_hi95": 31.29,
+      "est_margin_hi95": 31.3,
       "benchmark_margin": 21.32,
       "vs_benchmark": 9.14,
       "vs_benchmark_votes": 1859
@@ -313,7 +313,7 @@
       "est_margin_hi95": -9.78,
       "benchmark_margin": -16.39,
       "vs_benchmark": 6.07,
-      "vs_benchmark_votes": 8898
+      "vs_benchmark_votes": 8900
     },
     {
       "county": "Carroll",
@@ -382,8 +382,8 @@
       "votes_r": 26179,
       "votes_o": 2905,
       "margin": -13.23,
-      "baseline_margin": -20.85,
-      "swing": 7.62,
+      "baseline_margin": -20.86,
+      "swing": 7.63,
       "sen24_margin": -20.73,
       "swing_sen24": 7.5,
       "pres24_margin": -29.53,
@@ -410,7 +410,7 @@
       "votes_r": 51134,
       "votes_o": 4807,
       "margin": -19.79,
-      "baseline_margin": -29.08,
+      "baseline_margin": -29.09,
       "swing": 9.29,
       "sen24_margin": -28.98,
       "swing_sen24": 9.19,
@@ -425,7 +425,7 @@
       "est_margin_hi95": -19.23,
       "benchmark_margin": -25.92,
       "vs_benchmark": 6.13,
-      "vs_benchmark_votes": 5478
+      "vs_benchmark_votes": 5479
     },
     {
       "county": "Clinton",
@@ -466,7 +466,7 @@
       "votes_r": 21637,
       "votes_o": 2294,
       "margin": -30.72,
-      "baseline_margin": -37.6,
+      "baseline_margin": -37.61,
       "swing": 6.88,
       "sen24_margin": -37.52,
       "swing_sen24": 6.79,
@@ -481,7 +481,7 @@
       "est_margin_hi95": -30.12,
       "benchmark_margin": -34.44,
       "vs_benchmark": 3.72,
-      "vs_benchmark_votes": 1297
+      "vs_benchmark_votes": 1298
     },
     {
       "county": "Coshocton",
@@ -542,7 +542,7 @@
     {
       "county": "Cuyahoga",
       "fips": "39035",
-      "precincts_reported": 399,
+      "precincts_reported": 490,
       "precincts_total": 897,
       "absentee_reported": true,
       "votes": 277278,
@@ -550,22 +550,22 @@
       "votes_r": 69924,
       "votes_o": 8872,
       "margin": 46.36,
-      "baseline_margin": 43.93,
-      "swing": 2.43,
+      "baseline_margin": 43.72,
+      "swing": 2.64,
       "sen24_margin": 37.5,
       "swing_sen24": 8.87,
       "pres24_margin": 31.47,
       "swing_pres24": 14.9,
-      "expected_total": 468705,
-      "pct_counted_est": 59.16,
-      "est_margin_mid": 40.73,
-      "est_margin_lo50": 39.19,
-      "est_margin_hi50": 42.25,
-      "est_margin_lo95": 35.37,
-      "est_margin_hi95": 45.92,
-      "benchmark_margin": 47.09,
-      "vs_benchmark": -0.73,
-      "vs_benchmark_votes": -2021
+      "expected_total": 429232,
+      "pct_counted_est": 64.6,
+      "est_margin_mid": 41.5,
+      "est_margin_lo50": 40.18,
+      "est_margin_hi50": 42.82,
+      "est_margin_lo95": 36.88,
+      "est_margin_hi95": 46,
+      "benchmark_margin": 46.88,
+      "vs_benchmark": -0.52,
+      "vs_benchmark_votes": -1439
     },
     {
       "county": "Darke",
@@ -606,7 +606,7 @@
       "votes_r": 8592,
       "votes_o": 955,
       "margin": -24.92,
-      "baseline_margin": -32.98,
+      "baseline_margin": -32.97,
       "swing": 8.06,
       "sen24_margin": -32.82,
       "swing_sen24": 7.91,
@@ -635,7 +635,7 @@
       "votes_o": 3789,
       "margin": 4.47,
       "baseline_margin": -1.71,
-      "swing": 6.17,
+      "swing": 6.18,
       "sen24_margin": -1.52,
       "swing_sen24": 5.99,
       "pres24_margin": -6.59,
@@ -647,9 +647,9 @@
       "est_margin_hi50": 4.77,
       "est_margin_lo95": 4.49,
       "est_margin_hi95": 5.16,
-      "benchmark_margin": 1.46,
+      "benchmark_margin": 1.45,
       "vs_benchmark": 3.01,
-      "vs_benchmark_votes": 3533
+      "vs_benchmark_votes": 3535
     },
     {
       "county": "Erie",
@@ -718,7 +718,7 @@
       "votes_r": 6083,
       "votes_o": 508,
       "margin": -39.64,
-      "baseline_margin": -44.55,
+      "baseline_margin": -44.54,
       "swing": 4.9,
       "sen24_margin": -44.42,
       "swing_sen24": 4.78,
@@ -746,7 +746,7 @@
       "votes_r": 136999,
       "votes_o": 18370,
       "margin": 42.15,
-      "baseline_margin": 33.68,
+      "baseline_margin": 33.67,
       "swing": 8.47,
       "sen24_margin": 33.85,
       "swing_sen24": 8.29,
@@ -759,9 +759,9 @@
       "est_margin_hi50": 42.43,
       "est_margin_lo95": 42.18,
       "est_margin_hi95": 42.78,
-      "benchmark_margin": 36.84,
+      "benchmark_margin": 36.83,
       "vs_benchmark": 5.31,
-      "vs_benchmark_votes": 26826
+      "vs_benchmark_votes": 26838
     },
     {
       "county": "Fulton",
@@ -870,7 +870,7 @@
       "est_margin_lo50": -7.4,
       "est_margin_hi50": -7.21,
       "est_margin_lo95": -7.5,
-      "est_margin_hi95": -6.81,
+      "est_margin_hi95": -6.8,
       "benchmark_margin": -10.54,
       "vs_benchmark": 3.02,
       "vs_benchmark_votes": 2244
@@ -927,9 +927,9 @@
       "est_margin_hi50": 25.69,
       "est_margin_lo95": 25.4,
       "est_margin_hi95": 26.1,
-      "benchmark_margin": 21.98,
-      "vs_benchmark": 3.36,
-      "vs_benchmark_votes": 11511
+      "benchmark_margin": 21.97,
+      "vs_benchmark": 3.37,
+      "vs_benchmark_votes": 11518
     },
     {
       "county": "Hancock",
@@ -1060,12 +1060,12 @@
       "swing_sen24": 9,
       "pres24_margin": -63.35,
       "swing_pres24": 17.95,
-      "expected_total": 17702,
+      "expected_total": 17703,
       "pct_counted_est": 62.65,
-      "est_margin_mid": -50.04,
+      "est_margin_mid": -50.05,
       "est_margin_lo50": -51.49,
       "est_margin_hi50": -48.62,
-      "est_margin_lo95": -55.09,
+      "est_margin_lo95": -55.1,
       "est_margin_hi95": -45.01,
       "benchmark_margin": -49.27,
       "vs_benchmark": 3.87,
@@ -1096,7 +1096,7 @@
       "est_margin_lo95": -24.92,
       "est_margin_hi95": -24.19,
       "benchmark_margin": -30.62,
-      "vs_benchmark": 5.72,
+      "vs_benchmark": 5.71,
       "vs_benchmark_votes": 555
     },
     {
@@ -1236,7 +1236,7 @@
       "est_margin_lo95": -31.36,
       "est_margin_hi95": -30.61,
       "benchmark_margin": -33.98,
-      "vs_benchmark": 2.59,
+      "vs_benchmark": 2.6,
       "vs_benchmark_votes": 627
     },
     {
@@ -1265,7 +1265,7 @@
       "est_margin_hi95": 2.28,
       "benchmark_margin": -1.71,
       "vs_benchmark": 3.32,
-      "vs_benchmark_votes": 3516
+      "vs_benchmark_votes": 3517
     },
     {
       "county": "Lawrence",
@@ -1321,7 +1321,7 @@
       "est_margin_hi95": -11.53,
       "benchmark_margin": -18.14,
       "vs_benchmark": 5.99,
-      "vs_benchmark_votes": 4444
+      "vs_benchmark_votes": 4445
     },
     {
       "county": "Logan",
@@ -1375,9 +1375,9 @@
       "est_margin_hi50": 11.55,
       "est_margin_lo95": 11.25,
       "est_margin_hi95": 11.94,
-      "benchmark_margin": 7.88,
+      "benchmark_margin": 7.87,
       "vs_benchmark": 3.35,
-      "vs_benchmark_votes": 4346
+      "vs_benchmark_votes": 4347
     },
     {
       "county": "Lucas",
@@ -1396,13 +1396,13 @@
       "swing_sen24": null,
       "pres24_margin": 12.56,
       "swing_pres24": null,
-      "expected_total": 162983,
+      "expected_total": 162721,
       "pct_counted_est": 0,
-      "est_margin_mid": 26.07,
-      "est_margin_lo50": 22.76,
-      "est_margin_hi50": 29.31,
-      "est_margin_lo95": 14.52,
-      "est_margin_hi95": 37.01,
+      "est_margin_mid": 26.1,
+      "est_margin_lo50": 22.78,
+      "est_margin_hi50": 29.33,
+      "est_margin_lo95": 14.55,
+      "est_margin_hi95": 37.04,
       "benchmark_margin": null,
       "vs_benchmark": null,
       "vs_benchmark_votes": null
@@ -1446,7 +1446,7 @@
       "votes_r": 39192,
       "votes_o": 4359,
       "margin": 7.18,
-      "baseline_margin": -0.31,
+      "baseline_margin": -0.32,
       "swing": 7.5,
       "sen24_margin": -0.2,
       "swing_sen24": 7.38,
@@ -1461,7 +1461,7 @@
       "est_margin_hi95": 7.95,
       "benchmark_margin": 2.85,
       "vs_benchmark": 4.34,
-      "vs_benchmark_votes": 3865
+      "vs_benchmark_votes": 3866
     },
     {
       "county": "Marion",
@@ -1503,7 +1503,7 @@
       "votes_o": 3632,
       "margin": -9.36,
       "baseline_margin": -15.07,
-      "swing": 5.71,
+      "swing": 5.72,
       "sen24_margin": -14.94,
       "swing_sen24": 5.59,
       "pres24_margin": -24.8,
@@ -1517,7 +1517,7 @@
       "est_margin_hi95": -8.59,
       "benchmark_margin": -11.91,
       "vs_benchmark": 2.55,
-      "vs_benchmark_votes": 2180
+      "vs_benchmark_votes": 2181
     },
     {
       "county": "Meigs",
@@ -1586,7 +1586,7 @@
       "votes_r": 28590,
       "votes_o": 2573,
       "margin": -30.93,
-      "baseline_margin": -37.04,
+      "baseline_margin": -37.05,
       "swing": 6.11,
       "sen24_margin": -36.91,
       "swing_sen24": 5.98,
@@ -1642,7 +1642,7 @@
       "votes_r": 81630,
       "votes_o": 9242,
       "margin": 14.95,
-      "baseline_margin": 7.05,
+      "baseline_margin": 7.04,
       "swing": 7.91,
       "sen24_margin": 7.2,
       "swing_sen24": 7.75,
@@ -1656,8 +1656,8 @@
       "est_margin_lo95": 15.02,
       "est_margin_hi95": 15.72,
       "benchmark_margin": 10.21,
-      "vs_benchmark": 4.74,
-      "vs_benchmark_votes": 9622
+      "vs_benchmark": 4.75,
+      "vs_benchmark_votes": 9626
     },
     {
       "county": "Morgan",
@@ -1712,7 +1712,7 @@
       "est_margin_lo95": -39.6,
       "est_margin_hi95": -38.99,
       "benchmark_margin": -43.32,
-      "vs_benchmark": 3.7,
+      "vs_benchmark": 3.69,
       "vs_benchmark_votes": 521
     },
     {
@@ -2103,7 +2103,7 @@
       "est_margin_hi50": -25.23,
       "est_margin_lo95": -25.48,
       "est_margin_hi95": -24.88,
-      "benchmark_margin": -34.85,
+      "benchmark_margin": -34.86,
       "vs_benchmark": 9.36,
       "vs_benchmark_votes": 2013
     },
@@ -2184,12 +2184,12 @@
       "pct_counted_est": 98.93,
       "est_margin_mid": -5.12,
       "est_margin_lo50": -5.2,
-      "est_margin_hi50": -5.02,
+      "est_margin_hi50": -5.01,
       "est_margin_lo95": -5.29,
       "est_margin_hi95": -4.64,
       "benchmark_margin": -10.1,
       "vs_benchmark": 4.78,
-      "vs_benchmark_votes": 6911
+      "vs_benchmark_votes": 6913
     },
     {
       "county": "Summit",
@@ -2203,7 +2203,7 @@
       "votes_o": 10358,
       "margin": 22.58,
       "baseline_margin": 14.2,
-      "swing": 8.37,
+      "swing": 8.38,
       "sen24_margin": 14.36,
       "swing_sen24": 8.22,
       "pres24_margin": 6.98,
@@ -2215,9 +2215,9 @@
       "est_margin_hi50": 22.92,
       "est_margin_lo95": 22.64,
       "est_margin_hi95": 23.3,
-      "benchmark_margin": 17.37,
+      "benchmark_margin": 17.36,
       "vs_benchmark": 5.21,
-      "vs_benchmark_votes": 11743
+      "vs_benchmark_votes": 11747
     },
     {
       "county": "Trumbull",
@@ -2245,7 +2245,7 @@
       "est_margin_hi95": 3.32,
       "benchmark_margin": -2.75,
       "vs_benchmark": 5.37,
-      "vs_benchmark_votes": 3991
+      "vs_benchmark_votes": 3992
     },
     {
       "county": "Tuscarawas",
@@ -2272,7 +2272,7 @@
       "est_margin_lo95": -23.36,
       "est_margin_hi95": -22.7,
       "benchmark_margin": -29.51,
-      "vs_benchmark": 6.11,
+      "vs_benchmark": 6.12,
       "vs_benchmark_votes": 1964
     },
     {
@@ -2343,7 +2343,7 @@
       "votes_o": 281,
       "margin": -36.64,
       "baseline_margin": -47.58,
-      "swing": 10.95,
+      "swing": 10.94,
       "sen24_margin": -47.47,
       "swing_sen24": 10.83,
       "pres24_margin": -58.6,
@@ -2385,7 +2385,7 @@
       "est_margin_hi95": -17.28,
       "benchmark_margin": -22.52,
       "vs_benchmark": 4.6,
-      "vs_benchmark_votes": 5203
+      "vs_benchmark_votes": 5204
     },
     {
       "county": "Washington",
@@ -2497,7 +2497,7 @@
       "est_margin_hi95": 5.31,
       "benchmark_margin": 0.69,
       "vs_benchmark": 3.9,
-      "vs_benchmark_votes": 2123
+      "vs_benchmark_votes": 2124
     },
     {
       "county": "Wyandot",
@@ -2536,8 +2536,8 @@
       "counties_total": 2,
       "votes": 782630,
       "leader_margin": 43.64,
-      "benchmark_margin": 40.47,
-      "vs_benchmark": 3.17,
+      "benchmark_margin": 40.39,
+      "vs_benchmark": 3.25,
       "status": "Brown"
     },
     {
@@ -2569,8 +2569,8 @@
       "counties_total": 6,
       "votes": 1552920,
       "leader_margin": 32.81,
-      "benchmark_margin": 29.09,
-      "vs_benchmark": 3.71,
+      "benchmark_margin": 29.05,
+      "vs_benchmark": 3.75,
       "status": "Brown"
     },
     {
@@ -3718,6 +3718,17 @@
       "margin_hi95": 5.43,
       "counted_votes": 4247509,
       "reported_margin": 2.49
+    },
+    {
+      "t": "2026-11-04T00:40:54-05:00",
+      "p_brown": 1,
+      "margin_mid": 4.37,
+      "margin_lo50": 4.15,
+      "margin_hi50": 4.59,
+      "margin_lo95": 3.65,
+      "margin_hi95": 5.12,
+      "counted_votes": 4247509,
+      "reported_margin": 2.49
     }
   ],
   "call": {
@@ -3729,14 +3740,14 @@
         "id": "cannot_catch_up",
         "label": "Cannot catch up: the favourable-case test passed with a 10 point buffer, lead above 0.5 points, held 10 minutes",
         "met": true,
-        "value": 152892,
+        "value": 138395,
         "threshold": 0
       },
       {
         "id": "ccu_favourable_case",
         "label": "Leader still ahead with every outstanding vote at the trailing candidate's favourable margin (votes)",
         "met": true,
-        "value": 152892,
+        "value": 138395,
         "threshold": 0
       },
       {
@@ -3757,7 +3768,7 @@
         "id": "ccu_hold",
         "label": "Test passed on updates at least 10 minutes apart",
         "met": true,
-        "value": 84.3,
+        "value": 89.3,
         "threshold": 10
       },
       {
