@@ -1,11 +1,11 @@
 {
   "race": "OH-SEN",
   "status": "counting",
-  "updated_at": "2026-11-03T20:54:37-05:00",
-  "last_success_at": "2026-11-03T20:54:37-05:00",
+  "updated_at": "2026-11-03T20:56:50-05:00",
+  "last_success_at": "2026-11-03T20:56:50-05:00",
   "feed": {
     "source": "sos_json+xml",
-    "last_modified": "2026-11-03T20:54:41-05:00",
+    "last_modified": "2026-11-03T20:56:50-05:00",
     "last_change_at": "2026-11-03T20:54:37-05:00"
   },
   "candidates": [
@@ -3050,6 +3050,17 @@
     },
     {
       "t": "2026-11-03T20:54:37-05:00",
+      "p_brown": 0.9844,
+      "margin_mid": 5.08,
+      "margin_lo50": 3.82,
+      "margin_hi50": 6.33,
+      "margin_lo95": 0.69,
+      "margin_hi95": 9.51,
+      "counted_votes": 2011924,
+      "reported_margin": 11.91
+    },
+    {
+      "t": "2026-11-03T20:56:50-05:00",
       "p_brown": 0.9844,
       "margin_mid": 5.08,
       "margin_lo50": 3.82,
