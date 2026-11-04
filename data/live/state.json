@@ -1,11 +1,11 @@
 {
   "race": "OH-SEN",
   "status": "counting",
-  "updated_at": "2026-11-04T01:16:20-05:00",
-  "last_success_at": "2026-11-04T01:16:20-05:00",
+  "updated_at": "2026-11-04T01:21:24-05:00",
+  "last_success_at": "2026-11-04T01:21:24-05:00",
   "feed": {
     "source": "sos_json",
-    "last_modified": "2026-11-04T01:16:20-05:00",
+    "last_modified": "2026-11-04T01:21:06-05:00",
     "last_change_at": "2026-11-04T01:11:16-05:00"
   },
   "candidates": [
@@ -3806,6 +3806,17 @@
       "margin_hi95": 5.22,
       "counted_votes": 4303629,
       "reported_margin": 2.85
+    },
+    {
+      "t": "2026-11-04T01:21:24-05:00",
+      "p_brown": 1,
+      "margin_mid": 4.51,
+      "margin_lo50": 4.31,
+      "margin_hi50": 4.71,
+      "margin_lo95": 3.85,
+      "margin_hi95": 5.22,
+      "counted_votes": 4303629,
+      "reported_margin": 2.85
     }
   ],
   "call": {
@@ -3845,7 +3856,7 @@
         "id": "ccu_hold",
         "label": "Test passed on updates at least 10 minutes apart",
         "met": true,
-        "value": 124.8,
+        "value": 129.8,
         "threshold": 10
       },
       {
