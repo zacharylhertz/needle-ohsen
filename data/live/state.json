@@ -1,11 +1,11 @@
 {
   "race": "OH-SEN",
   "status": "counting",
-  "updated_at": "2026-11-04T00:00:25-05:00",
-  "last_success_at": "2026-11-04T00:00:25-05:00",
+  "updated_at": "2026-11-04T00:05:29-05:00",
+  "last_success_at": "2026-11-04T00:05:29-05:00",
   "feed": {
     "source": "sos_json",
-    "last_modified": "2026-11-03T23:59:53-05:00",
+    "last_modified": "2026-11-04T00:05:11-05:00",
     "last_change_at": "2026-11-03T23:55:21-05:00"
   },
   "candidates": [
@@ -3641,6 +3641,17 @@
       "margin_hi95": 5.57,
       "counted_votes": 4214005,
       "reported_margin": 2.28
+    },
+    {
+      "t": "2026-11-04T00:05:29-05:00",
+      "p_brown": 1,
+      "margin_mid": 4.65,
+      "margin_lo50": 4.38,
+      "margin_hi50": 4.92,
+      "margin_lo95": 3.75,
+      "margin_hi95": 5.57,
+      "counted_votes": 4214005,
+      "reported_margin": 2.28
     }
   ],
   "call": {
@@ -3652,14 +3663,14 @@
         "id": "cannot_catch_up",
         "label": "Cannot catch up: the favourable-case test passed with a 10 point buffer, lead above 0.5 points, held 10 minutes",
         "met": true,
-        "value": 163760,
+        "value": 160370,
         "threshold": 0
       },
       {
         "id": "ccu_favourable_case",
         "label": "Leader still ahead with every outstanding vote at the trailing candidate's favourable margin (votes)",
         "met": true,
-        "value": 163760,
+        "value": 160370,
         "threshold": 0
       },
       {
@@ -3680,7 +3691,7 @@
         "id": "ccu_hold",
         "label": "Test passed on updates at least 10 minutes apart",
         "met": true,
-        "value": 48.8,
+        "value": 53.9,
         "threshold": 10
       },
       {
